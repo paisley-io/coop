@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Coop",
+    "slug": "Coop",
+    "pages": [
+      { "title": "Intro", "slug": "Coop/intro.md" },
+      { "title": "Membership", "slug": "Coop/membership.md" },
+      { "title": "Governance", "slug": "Coop/governance.md" }
+    ]
+  },
+  {
+    "title": "Getting Paid",
+    "slug": "Getting-Paid",
+    "pages": [
+      { "title": "Invoicing", "slug": "Getting-Paid/invoicing.md" },
+      { "title": "Wallet Setup", "slug": "Getting-Paid/wallet-setup.md" },
+      { "title": "Withdrawals", "slug": "Getting-Paid/withdrawals.md" }
+    ]
+  },
+  {
+    "title": "Time Tokens",
+    "slug": "Time-Tokens",
+    "pages": [
+      { "title": "Overview", "slug": "Time-Tokens/overview.md" },
+      { "title": "Minting", "slug": "Time-Tokens/minting.md" },
+      { "title": "Uses", "slug": "Time-Tokens/uses.md" }
+    ]
+  }
+]
