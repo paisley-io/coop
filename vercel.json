@@ -1,4 +1,9 @@
 {
   "buildCommand": "chmod +x node_modules/.bin/vite && npm run build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "rewrites": [
+    { "source": "/docs/**", "destination": "/" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
 }
